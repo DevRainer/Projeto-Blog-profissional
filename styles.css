@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
-    line-height: 1.6;
+    line-height: 4;
     background-color: #1a1f22;
     color: #f0f0f0;
 }
@@ -10,12 +10,14 @@ body {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+   
 }
 
 .main-header {
-    background-color: #494446;
+    background-color: #49363c;
     color: #d5e2eb;
     padding: 1em 0;
+    background-image: url(./img/topo.jpg);
 }
 
 .main-header .container {
@@ -27,7 +29,7 @@ body {
 .logo a {
     color: #fff;
     text-decoration: none;
-    font-size: 38px;
+    font-size:52px;
     font-weight: bold;
 }
 
